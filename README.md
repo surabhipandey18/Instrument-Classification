@@ -1,4 +1,4 @@
-##Instrument Classification
+#Instrument Classification
 This project aims to classify 10 different musical instruments using Deep Learning, exploring two approaches:
 
 Custom Convolutional Neural Network (CNN)
